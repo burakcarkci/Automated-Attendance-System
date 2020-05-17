@@ -1,3 +1,4 @@
-*.css linguist-detectable=false
+$ cat .gitattributes
+*.css linguist-detectable=Php
 *.js linguist-detectable=true
 *.php linguist-detectable=Solidity
